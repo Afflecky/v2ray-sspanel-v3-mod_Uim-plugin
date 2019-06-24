@@ -8,7 +8,7 @@ services:
     environment:
       sspanel_url: "https://xxxx"
       key: "xxxx"
-      speedtest: 6
+      speedtest: 0
       node_id: 10
       api_port: 2333
       downWithPanel: 1
